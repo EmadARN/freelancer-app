@@ -1,7 +1,6 @@
 # Freelancing App Project
-<div align="center">
-  <img src="(https://github.com/user-attachments/assets/10b50a24-97e5-430b-a946-3944c502290e))" alt="nextdotjs" />
-</div>
+
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/183a8d19-78e5-488b-974b-2a0d5579e6bd)
 
 A web application where employers can create projects, and freelancers can carry out these projects.
 
