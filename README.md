@@ -2,14 +2,12 @@
 
 ![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/183a8d19-78e5-488b-974b-2a0d5579e6bd)
 
-A web application where employers can create projects, and freelancers can carry out these projects.
-
+This is a web-based platform featuring three user roles: Admin, Owner, and Freelancers. The Admin has full control over the system, Employers can post projects, and Freelancers can take on and complete those projects.
 ## Table of Contents
 
 - [Features](#features)
 - [Packages](#packages)
 - [Project Structure](#project-structure)
-- [Acknowledgements](#acknowledgements)
 - [Contact Information](#contact-information)
 
 ## Features
