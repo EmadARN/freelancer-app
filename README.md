@@ -24,16 +24,27 @@ A web application where employers can create projects, and freelancers can carry
 Key packages used in this project:
 
 👉 **headlessui/react**: Accessible, unstyled components for custom UI design.
+
 👉 **tanstack/react-query**: Manages server-side data with caching and synchronization.
+
 👉 **axios**: HTTP client for making API requests.
+
 👉 **query-string**: Parses and stringifies URL query strings.
+
 👉 **react-hook-form**: Manages form state and validation with React Hooks.
+
 👉 **react-hot-toast**: Customizable toast notifications for React.
+
 👉 **react-icons**: Collection of popular icons for React projects.
+
 👉 **react-loader-spinner**: Loading spinners for data-fetching states.
+
 👉 **react-multi-date-picker**: Select multiple dates with a customizable date picker.
+
 👉 **react-otp-input**: Customizable input for OTP (One-Time Password) fields.
+
 👉 **react-router-dom**: Routing and navigation for React applications.
+
 👉 **react-tag-input-component**: Tag input component for managing multiple tags.
 
 ## Project Structure
